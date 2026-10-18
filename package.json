@@ -34,7 +34,7 @@
     "postversion": "npm install --package-lock-only"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.31.1",
     "@types/node": "^20.11.26",
     "@typescript-eslint/eslint-plugin": "^7.9.0",
     "@typescript-eslint/parser": "^7.9.0",
