@@ -34,7 +34,7 @@
     "postversion": "npm install --package-lock-only"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.31.1",
     "@types/node": "^20.11.26",
     "@typescript-eslint/eslint-plugin": "^7.9.0",
     "@typescript-eslint/parser": "^7.9.0",
@@ -48,7 +48,7 @@
     "prettier-plugin-tailwindcss": "^0.2.4",
     "react-dom": "0.0.0-experimental-778e1ed2-20240926",
     "rimraf": "^4.4.1",
-    "turbo": "^1.8.8",
+    "turbo": "^2.11.9",
     "typescript": "^5.4.5"
   }
 }
